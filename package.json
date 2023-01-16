@@ -1,0 +1,11 @@
+{
+  "name": "HadesWang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:InfinityFE/HadesWang.git",
+  "author": "hades <hades.wang@yuansuan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
+}
